@@ -1,4 +1,3 @@
 # punk_ml
-Machine Learning for Punk
 
-Teste
+Nodebooks para análise de uma base de dados de cerveja.
